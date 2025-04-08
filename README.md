@@ -1,2 +1,2 @@
 # Demonstrating-Python-based-code
-Exploring Python
+Exploring Python code
